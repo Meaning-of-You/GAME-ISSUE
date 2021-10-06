@@ -50,6 +50,8 @@ python manage.py startapp game_issue_app
 
 ![image-20211003140229495](Django.assets/image-20211003140229495.png)
 
+
+
 ### 프로젝트 실행하기
 
 ##### 프로젝트 실행
